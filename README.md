@@ -1,6 +1,5 @@
 # pv25-week9
 
-# Hasil Code dan UI 
 ## Tampilan Awal
 ![image](https://github.com/user-attachments/assets/7ec2a1f7-5dd9-4853-993b-7dce4159f3a4)
 
